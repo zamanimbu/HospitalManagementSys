@@ -1,0 +1,18 @@
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\EntityLayer\bin\Debug\EntityLayer.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\EntityLayer\bin\Debug\EntityLayer.pdb
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\EntityLayer\obj\Debug\EntityLayer.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\EntityLayer\obj\Debug\EntityLayer.pdb
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\EntityLayer\bin\Debug\BusinessLogicLayer.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\EntityLayer\bin\Debug\DataAccessLayer.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\EntityLayer\bin\Debug\BusinessLogicLayer.pdb
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\EntityLayer\bin\Debug\DataAccessLayer.pdb
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\EntityLayer\bin\Debug\EntityLayer.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\EntityLayer\bin\Debug\EntityLayer.pdb
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\EntityLayer\obj\Debug\EntityLayer.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\EntityLayer\obj\Debug\EntityLayer.pdb
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\EntityLayer\bin\Debug\BusinessLogicLayer.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\EntityLayer\bin\Debug\DataAccessLayer.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\EntityLayer\bin\Debug\BusinessLogicLayer.pdb
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\EntityLayer\bin\Debug\DataAccessLayer.pdb
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache

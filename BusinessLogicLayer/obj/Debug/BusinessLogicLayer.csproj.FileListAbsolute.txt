@@ -1,0 +1,18 @@
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

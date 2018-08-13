@@ -1,0 +1,14 @@
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\DataAccessLayer\bin\Debug\EntityLayer.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\DataAccessLayer\bin\Debug\EntityLayer.pdb
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\DataAccessLayer\bin\Debug\EntityLayer.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\DataAccessLayer\bin\Debug\EntityLayer.pdb
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

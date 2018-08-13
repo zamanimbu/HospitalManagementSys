@@ -1,0 +1,78 @@
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\obj\Debug\HospitalManagementSystemApp.csprojResolveAssemblyReference.cache
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\ApplicationInsights.config
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\csc.exe
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\System.Collections.Immutable.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\vbc.exe
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\VBCSCompiler.exe
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\VBCSCompiler.exe.config
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\HospitalManagementSystemApp.dll.config
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\HospitalManagementSystemApp.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\HospitalManagementSystemApp.pdb
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\BusinessLogicLayer.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\EntityLayer.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.AI.DependencyCollector.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.AI.Web.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.AI.WindowsServer.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.ApplicationInsights.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\DataAccessLayer.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\BusinessLogicLayer.pdb
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\EntityLayer.pdb
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.AI.DependencyCollector.xml
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.AI.Web.xml
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.AI.WindowsServer.xml
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.ApplicationInsights.xml
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\DataAccessLayer.pdb
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\obj\Debug\HospitalManagementSystemApp.dll
+F:\Coding\Top Up IT\Project\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\obj\Debug\HospitalManagementSystemApp.pdb
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\ApplicationInsights.config
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\csc.exe
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\System.Collections.Immutable.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\vbc.exe
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\VBCSCompiler.exe
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\roslyn\VBCSCompiler.exe.config
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\HospitalManagementSystemApp.dll.config
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\HospitalManagementSystemApp.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\HospitalManagementSystemApp.pdb
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\BusinessLogicLayer.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\EntityLayer.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.AI.DependencyCollector.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.AI.Web.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.AI.WindowsServer.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.ApplicationInsights.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\DataAccessLayer.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\BusinessLogicLayer.pdb
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\EntityLayer.pdb
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.AI.DependencyCollector.xml
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.AI.Web.xml
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.AI.WindowsServer.xml
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.ApplicationInsights.xml
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\bin\DataAccessLayer.pdb
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\obj\Debug\HospitalManagementSystemApp.csprojResolveAssemblyReference.cache
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\obj\Debug\HospitalManagementSystemApp.dll
+F:\Coding\C# Asp Dot net\Unit testing\Project\HospitalManagementSystemApp\HospitalManagementSystemApp\obj\Debug\HospitalManagementSystemApp.pdb
